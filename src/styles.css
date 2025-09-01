@@ -1,0 +1,182 @@
+HTML{
+               font-size: 16PX;
+}
+body{
+               
+               font-family: INTER;
+               font-weight: 400;
+               line-height: 24px;
+               color: #552060;
+               margin: 0;
+               padding: 0;
+               background-color: peachpuff;
+}
+h1{
+               font-family: league spartan;
+               color:#190D37; 
+               font-weight: 700;
+               line-height: 50PX;
+               font-size: 48px;
+               margin-top: 10px;
+               margin-bottom: 30px;
+              /* position: relative;*/
+}
+h2{
+               font-FAMILY: LEAGUE SPARTAN;
+               font-size: 36PX;
+               color: #000000;
+               font-weight: 700;
+               line-height: 40PX;
+               text-transform:lowercase;
+}
+.bigtext{
+               color: #331E6A;
+               font-family: poppins;
+                font-size: 18PX;
+
+               font-weight: 400;
+               line-height: 32PX;
+}
+#hero-section{
+               display: flex;
+               max-width: 1060px;
+               margin: 0 auto 48PX AUTO;
+}#hero-text{
+               width: 50%;
+               padding:32px 20px 32px 20px;
+}
+#hero-image{
+               width: 50%;
+}
+.small-text{
+               font-family: "inter";
+               color:#000000; 
+               font-weight: 400;
+               line-height: 14PX;
+               font-size: 12px;
+}
+#hi{
+               margin-top: 52px;
+               
+}#BUTTON{
+               height: 32px;
+               width: 96px;
+               border-radius: 4px;
+               background-color: #2F2F2F;
+               font-family: inter;
+               font-size:16px;
+               font-weight: 500;
+              
+               color:#FFFFFF;
+               margin-top: 20px;
+               text-align: center;
+               padding-top: 16px;
+}
+#pricing-section{
+               width:1060px;
+               margin:0 auto;
+               margin-top: 48PX AUTO;
+}.overt-title{
+               font-family: poppins;
+               font-size:12px;
+               font-weight: 600;
+               line-height: 18px;
+               color: #2858FF;
+               text-align: center;
+               text-transform: uppercase;
+               margin-bottom: 8px;
+}
+section-heading{text-align: center;
+max-width: 700px;
+margin:0 auto;
+}
+.section-subtitlte{
+               text-align: center;
+               margin: 8px auto 48px auto;
+               max-width: 700px;
+}#pricing-boxes{
+               display: flex;
+}
+.box{
+               width:33.33%
+}#PRICING-BOXES{
+               background-color: WHITE;height: 300PX;
+
+}
+.PRICING-CARD{
+               background-color: WHITE;
+               MARGIN:0 10PX;
+               border-radius: 10PX;
+               border: 2PX soliD GRAY;
+               padding: 20PX;
+               box-shadow: 6px 2px 25px-9px #00001a;
+}
+.SERVICE{
+               font-family: POPPINS;
+               font-size: 14PX;
+             font-weight: 500;
+             line-height: 21px;
+             text-transform: uppercase;
+             color: #2858FF;}
+
+.PRICE{
+               FONT-FAMILY:POPPINS;
+
+               font-size: 16PX;
+               line-height: 32px;
+               color: black;
+               margin-top: 8PX;
+}.PRICEPER{
+               color: #8A8A8A;
+               font-family: POPPINS;
+               FONT-SIZE:14PX;
+               font-weight: 400;
+               line-height: 21px;
+}.SERVICE-DESCRIPTION{
+  color: #8b8b8b;
+               font-family: POPPINS;
+               FONT-SIZE:14PX;
+               font-weight: 400;
+               line-height: 21px;
+  
+
+}.BENEFITS{
+  padding: 0;
+}
+.CONTACT{
+  width: 100%;
+  background-color: white;
+  height: 44PX;
+  border-radius: 4px;
+  border: 2PX SOLID #2F2F2F;
+  color: #2F2F2F;
+   font-size: 16PX;
+   font-family: INTER;
+             font-weight: 500;
+             line-height: 19px;
+}
+.CONTACT:HOVER{
+  background-color: BLACK;
+  color: white;
+  cursor:pointer;
+}
+.CARD-2{
+  background-color: yellowgreen;
+}
+.CARD-2 .SERVICE{
+  color: #000000;
+}
+.CARD-2 .BENEFITS{
+  color: #000000;
+}
+.footer{
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  padding: 20px;
+  color:white;
+}/*
+#yellow-line{
+  position: absolute;
+  z-index will show the image back of text
+}*/
